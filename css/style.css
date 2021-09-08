@@ -490,6 +490,10 @@ section about end
     color: var(--gray);
     line-height: 40px;
     font-size: 16px;
+    
+}
+.foot-about ul li{
+    border-bottom: 1px solid var(--gray);
 }
 .foot-about ul li i{
     padding-right: 15px;
